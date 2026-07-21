@@ -11,7 +11,7 @@ I bridge the gap between **Data Science / AI** and **Modern Web Development**—
 - 💻 Building web applications with **React, JavaScript, and Node.js**.
 - 🤖 Exploring **Machine Learning, Data Analysis, and AI integration**.
 - 💬 Ask me about **Web Development, Databases (MySQL), and Data Structures**.
-- 📫 Reach out via Email: **priyangshud92@gmail.com**
+- 📫 Reach out via Email: **priyangshudas62@gmail.com**
 
 ---
 
