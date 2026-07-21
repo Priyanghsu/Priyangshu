@@ -38,5 +38,4 @@ I bridge the gap between **Data Science / AI** and **Modern Web Development**—
 ---
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyangshu&layout=compact&theme=tokyonight" width="48%" />
-</p>
+  
